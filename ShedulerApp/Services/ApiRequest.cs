@@ -10,7 +10,7 @@ namespace ShedulerApp.Services
         private string _parameter;
 
         private string _host;
-        private string _key = "7b46088685mshd38e1b072a26c68p1a4f39jsn515215f4c63c";
+        private string _key = "********";
         private string _requestUri;
 
         private string Response;
